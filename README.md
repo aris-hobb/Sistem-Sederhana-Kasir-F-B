@@ -1,6 +1,6 @@
 # Sistem-Sederhana-Kasir-F-B
 
-Projek Latihan Sederhana Mata Kuliah Pemrograman Berbasis Objek (Kelompok)
+Projek Latihan Sederhana Mata Kuliah Pemrograman Ber-orientasi Objek (Kelompok)
 # KELOMPOK 8
 # Anggota : Arisula, Gita
 
