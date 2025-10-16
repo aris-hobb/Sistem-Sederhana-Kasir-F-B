@@ -4,4 +4,4 @@ Projek Latihan Sederhana Mata Kuliah Pemrograman Ber-orientasi Objek (Kelompok)
 # KELOMPOK 8
 # Anggota : Arisula, Gita
 
-Membangun Sistem Kasir F&B berbasis GUI sederhana dengan pendekatan secara berkala.
+Membangun Sistem Kasir FnB berbasis GUI sederhana dengan pendekatan secara berkala.
